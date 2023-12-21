@@ -52,6 +52,7 @@ main {
     
     /*make main take up any surplus space down to footer*/
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 #menu {

@@ -187,6 +187,9 @@ main {
     color: #fafafa;
 }
 
+.hidden-heading {
+    display: none;
+}
 
 /* Footer */
 #social-networks {
